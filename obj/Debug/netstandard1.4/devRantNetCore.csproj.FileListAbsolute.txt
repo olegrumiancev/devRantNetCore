@@ -1,0 +1,6 @@
+C:\_Development\_devRantWrapper\bin\Debug\netstandard1.4\devRantNetCore.deps.json
+C:\_Development\_devRantWrapper\bin\Debug\netstandard1.4\devRantNetCore.dll
+C:\_Development\_devRantWrapper\bin\Debug\netstandard1.4\devRantNetCore.pdb
+C:\_Development\_devRantWrapper\obj\Debug\netstandard1.4\devRantNetCore.AssemblyInfo.cs
+C:\_Development\_devRantWrapper\obj\Debug\netstandard1.4\devRantNetCore.dll
+C:\_Development\_devRantWrapper\obj\Debug\netstandard1.4\devRantNetCore.pdb
