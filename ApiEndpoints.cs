@@ -51,9 +51,11 @@ namespace devRantNetCore
 
         public const string APP_ID = "3";
 
-        public const string AVATARS_URL = "https://avatars.devrant.io";
+        public const string AVATARS_URL = "https://devrant.com";
+            //"https://avatars.devrant.io";
 
-        public const string BASE_URL = "https://www.devrant.io";
+        public const string BASE_URL = "https://www.devrant.com";
+            //"https://www.devrant.io";
 
         public const string COLLAB_URL = "/collabs";
 
